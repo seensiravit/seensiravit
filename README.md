@@ -28,8 +28,8 @@ With a strong background in competitive programming and industrial data science,
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight" alt="Siravit's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[seensiravit]&show_icons=true&theme=tokyonight" alt="Siravit's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[seensiravit]&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
