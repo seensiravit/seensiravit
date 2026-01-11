@@ -1,6 +1,6 @@
 # Hi there, I'm Siravit Keeratipranon 👋
 
-### 🎓 AI & Society Student @ NTU | 🥇 Super AI & TOI Medalist | 📊 Data Scientist @ AXONS
+### 🎓 AI & Society Student @ NTU | 📊 Data Scientist @ AXONS
 
 I am an undergraduate at **Nanyang Technological University (NTU)**, passionate about the intersection of **Machine Learning**, **Optimization**, and **Algorithm Design**.
 
